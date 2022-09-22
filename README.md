@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/AlexdelCarmen/article-preview)
-- Live Site URL: [Live site](https://alexdelcarmen.github.io/article-preview/)
+- Solution URL: [Solution](https://github.com/AlexdelCarmen/four-card-feature-section)
+- Live Site URL: [Live site](https://alexdelcarmen.github.io/four-card-feature-section/)
 
 ## My process
 
