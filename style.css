@@ -12,7 +12,24 @@ body {
     align-items: center;
 }
 
-
+:root { 
+    --mobile-width: 375px; 
+    --desktop-width: 1440px;
+    --accent1: hsl(0, 78%, 62%); 
+    --accent2: hsl(180, 62%, 55%);
+    --accent3: hsl(34, 97%, 64%); 
+    --accent4: hsl(212, 86%, 64%); 
+    --dark1: hsl(234, 12%, 34%);
+    --dark2: hsl(229, 6%, 66%); 
+    --light1: hsl(0, 0%, 98%); 
+    --para-size: 15px; 
+    --main-title-size: 28px; 
+    --card-title-size: 22px; 
+    --thin: 200; 
+    --regular: 400; 
+    --bold: 600; 
+    --main-font: 'Poppins', sans-serif;
+}
 
 .attribution {
   font-size: 11px;
